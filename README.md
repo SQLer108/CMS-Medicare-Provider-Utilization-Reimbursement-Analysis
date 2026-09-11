@@ -35,3 +35,13 @@ CMS Medicare Physician & Other Practitioners by Provider and Service Dataset
 - Medicare Data Analysis
 - Healthcare Reimbursement Analysis
 - Data Visualization
+
+## Key Findings
+
+This analysis examined CMS Medicare Provider Utilization and Payment data to evaluate:
+
+- Medicare reimbursement patterns across provider specialties
+- Medicare service utilization by state
+- Beneficiary volume by provider specialty
+- Differences between submitted charges and Medicare payments
+- High-volume HCPCS procedures
