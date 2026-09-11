@@ -1,4 +1,6 @@
-/* Query 1 Average Medicare Payment by Specialty */
+/* Query 1
+Average Medicare Payment by Specialty
+*/
 
 SELECT
     Rndrng_Prvdr_Type,
