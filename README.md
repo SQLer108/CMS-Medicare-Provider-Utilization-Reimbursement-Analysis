@@ -22,11 +22,11 @@ CMS Medicare Physician & Other Practitioners by Provider and Service Dataset
 
 ## Business Questions
 
-1. Which provider specialties receive the highest Medicare payments?
-2. Which HCPCS procedures generate the highest service volume?
-3. Which states have the highest Medicare utilization?
-4. What is the difference between provider charges and Medicare payments?
-5. Which provider specialties serve the largest number of Medicare beneficiaries?
+1. Which provider specialties receive the highest average Medicare reimbursement?
+2. Which provider specialties serve the largest Medicare beneficiary populations?
+3. Which states account for the highest Medicare service utilization?
+4. Which specialties experience the largest reimbursement gaps between submitted charges and Medicare payments?
+5. Which HCPCS procedures generate the highest service volume?
 
 ## Skills Demonstrated
 
