@@ -4,7 +4,7 @@
 
 Source: CMS Medicare Physician & Other Practitioners by Provider and Service Dataset
 
-The dataset contains provider-level Medicare utilization, service volume, beneficiary counts, submitted charges, Medicare allowed amounts, and Medicare payment information..
+The dataset contains provider-level Medicare utilization, service volume, beneficiary counts, submitted charges, Medicare allowed amounts, and Medicare payment information.
 
 ## Dataset
 
