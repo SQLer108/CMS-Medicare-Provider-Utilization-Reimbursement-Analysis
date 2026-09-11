@@ -41,10 +41,10 @@ CMS Medicare Physician & Other Practitioners by Provider and Service Dataset
 ## Key Findings
 
 - Medicare reimbursement varied substantially across provider specialties, reflecting differences in service complexity and provider practice patterns.
-- Primary care specialties served the largest Medicare beneficiary populations, indicating their central role in Medicare healthcare delivery.
-- Medicare service utilization varied across states, with several states accounting for a disproportionately large share of total services.
-- Significant differences existed between provider submitted charges and Medicare payment amounts, highlighting reimbursement variation across specialties.
-- A relatively small number of HCPCS procedures accounted for a large portion of overall Medicare service volume.
+- Diagnostic Radiology served the largest Medicare beneficiary population in the dataset, followed by Internal Medicine and Nurse Practitioner specialties.
+- California (CA), Florida (FL), and New York (NY) accounted for the highest Medicare service volumes in the dataset.
+- Ambulatory Surgical Centers exhibited the largest average reimbursement gaps between submitted charges and Medicare payments.
+- HCPCS procedure code 99214 (established patient office or other outpatient visit, 30–39 minutes) accounted for a substantial portion of overall Medicare service volume.
 
 ## Tools Used
 
