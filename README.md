@@ -31,10 +31,14 @@ CMS Medicare Physician & Other Practitioners by Provider and Service Dataset
 ## Skills Demonstrated
 
 - SQL
+- Data Cleaning
+- Aggregations
 - Healthcare Analytics
 - Medicare Data Analysis
 - Healthcare Reimbursement Analysis
-- Data Visualization
+- Provider Utilization Analysis
+- Healthcare Financial Analysis
+- GitHub Documentation
 
 ## Key Findings
 
@@ -43,4 +47,18 @@ CMS Medicare Physician & Other Practitioners by Provider and Service Dataset
 - Medicare service utilization varied across states, with several states accounting for a disproportionately large share of total services.
 - Significant differences existed between provider submitted charges and Medicare payment amounts, highlighting reimbursement variation across specialties.
 - A relatively small number of HCPCS procedures accounted for a large portion of overall Medicare service volume.
-``
+
+## Tools Used
+
+- SQLite
+- SQL
+- GitHub
+- CMS Medicare Provider Utilization and Payment Dataset
+
+## Methodology
+
+1. Downloaded CMS Medicare Physician & Other Practitioners data.
+2. Imported the dataset into SQLite.
+3. Cleaned payment and charge fields for numerical analysis.
+4. Performed SQL-based analysis of reimbursement, utilization, and beneficiary metrics.
+5. Documented findings and SQL queries in GitHub.
