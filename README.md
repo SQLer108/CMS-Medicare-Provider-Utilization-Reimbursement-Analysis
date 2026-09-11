@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project analyzes CMS Medicare Physician & Other Practitioners data to evaluate provider utilization patterns, Medicare reimbursement trends, and healthcare spending variation across provider specialties.
+Source: CMS Medicare Physician & Other Practitioners by Provider and Service Dataset
+
+The dataset contains provider-level Medicare utilization, service volume, beneficiary counts, submitted charges, Medicare allowed amounts, and Medicare payment information..
 
 ## Dataset
 
@@ -28,17 +30,13 @@ CMS Medicare Physician & Other Practitioners by Provider and Service Dataset
 4. Which specialties experience the largest reimbursement gaps between submitted charges and Medicare payments?
 5. Which HCPCS procedures generate the highest service volume?
 
-## Skills Demonstrated
+## Methodology
 
-- SQL
-- Data Cleaning
-- Aggregations
-- Healthcare Analytics
-- Medicare Data Analysis
-- Healthcare Reimbursement Analysis
-- Provider Utilization Analysis
-- Healthcare Financial Analysis
-- GitHub Documentation
+1. Downloaded CMS Medicare Physician & Other Practitioners data.
+2. Imported the dataset into SQLite.
+3. Cleaned payment and charge fields for numerical analysis.
+4. Developed SQL queries to analyze provider utilization, beneficiary volume, service volume, and Medicare reimbursement patterns.
+5. Documented findings and SQL queries in GitHub.
 
 ## Key Findings
 
@@ -55,10 +53,17 @@ CMS Medicare Physician & Other Practitioners by Provider and Service Dataset
 - GitHub
 - CMS Medicare Provider Utilization and Payment Dataset
 
-## Methodology
+## Skills Demonstrated
 
-1. Downloaded CMS Medicare Physician & Other Practitioners data.
-2. Imported the dataset into SQLite.
-3. Cleaned payment and charge fields for numerical analysis.
-4. Performed SQL-based analysis of reimbursement, utilization, and beneficiary metrics.
-5. Documented findings and SQL queries in GitHub.
+- SQL
+- Data Cleaning
+- Data Aggregation
+- Healthcare Analytics
+- Medicare Data Analysis
+- Healthcare Reimbursement Analysis
+- Provider Utilization Analysis
+- Healthcare Financial Analysis
+- Data Exploration
+- Data Validation
+- SQLite
+- GitHub Documentation
