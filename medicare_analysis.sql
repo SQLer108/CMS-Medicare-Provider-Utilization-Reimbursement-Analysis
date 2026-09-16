@@ -7,7 +7,8 @@ SELECT
   ROUND(AVG(CAST(REPLACE(REPLACE(Avg_Mdcr_Pymt_Amt,'$',''),',','') AS REAL)),2) AS Avg_Payment
 FROM medicare_sample_data
 GROUP BY Rndrng_Prvdr_Type
-ORDER BY Avg_Payment DESC;
+ORDER BY Avg_Payment DESC
+LIMIT 10;
 
 /* Query 2
 Beneficiaries by Specialty
@@ -42,7 +43,8 @@ SELECT
   ROUND(AVG(CAST(REPLACE(REPLACE(Avg_Sbmtd_Chrg,'$',''),',','') AS REAL) - CAST(REPLACE(REPLACE(Avg_Mdcr_Pymt_Amt,'$',''),',','') AS REAL)),2) AS Avg_Reimbursement_Gap
 FROM medicare_sample_data
 GROUP BY Rndrng_Prvdr_Type
-ORDER BY Avg_Reimbursement_Gap DESC;
+ORDER BY Avg_Reimbursement_Gap DESC
+LIMIT 10;
 
 /* Query 5
 Top Procedures by Service Volume
