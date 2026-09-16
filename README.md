@@ -22,7 +22,7 @@ CMS Medicare Physician & Other Practitioners by Provider and Service Dataset
 - Average Medicare Allowed Amount
 - Average Medicare Payment Amount
 
-## Questions
+## Questions (Queries)
 
 1. Which provider specialties receive the highest average Medicare reimbursement?
 2. Which provider specialties serve the largest Medicare beneficiary populations?
@@ -38,7 +38,7 @@ CMS Medicare Physician & Other Practitioners by Provider and Service Dataset
 4. Developed SQL queries to analyze provider utilization, beneficiary volume, service volume, and Medicare reimbursement patterns.
 5. Documented findings and SQL queries in GitHub.
 
-## Key Findings
+## Key Findings (Queries)
 
 - Medicare reimbursement varied substantially across provider specialties, reflecting differences in service complexity and provider practice patterns.
 - Diagnostic Radiology served the largest Medicare beneficiary population in the dataset, followed by Internal Medicine and Nurse Practitioner specialties.
