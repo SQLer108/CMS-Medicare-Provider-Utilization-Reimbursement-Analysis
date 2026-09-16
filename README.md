@@ -22,7 +22,7 @@ CMS Medicare Physician & Other Practitioners by Provider and Service Dataset
 - Average Medicare Allowed Amount
 - Average Medicare Payment Amount
 
-## Business Questions
+## Questions
 
 1. Which provider specialties receive the highest average Medicare reimbursement?
 2. Which provider specialties serve the largest Medicare beneficiary populations?
